@@ -1,5 +1,5 @@
 <p align="center"><img src="http://i.imgur.com/0QslcLi.png?1" alt="http://i.imgur.com/0QslcLi.png?1"/></p>
-#Web-based collaboartive drawing made modern, with Meteor.js for </div>blazing-fast communication
+#Web-based collaborative drawing made modern, with Meteor.js for </div>blazing-fast communication
 
 <p><span style="color:#1b96c6;">A bunch of us are putting together a web-based drawing app with games, hookers and blackjack. You simply draw (or chat or game) in real-time with others in the same space. Plenty of these are done in Flash, but we&#39;re making it happen in&nbsp;</span><span style="color:#4f6b99;"><strong>JavaScript</strong></span><span style="color:#1b96c6;">, </span><span style="color:#4f6b99;"><strong>MeteorJS</strong></span><span style="color:#1b96c6;">, and </span><span style="color:#4f6b99;"><strong>HTML5&nbsp;</strong></span><span style="color:#1b96c6;">&ndash; a site that works on mobile (because it&#39;s not Flash)&nbsp;for anybody to screw and play around on or intently draw.</span></p>
 
